@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div align="center">
+  <video src="https://github.com/sauraby46/sauraby46/raw/main/profileview.mp4" width="600" autoplay loop muted playsinline></video>
+</div>
 <!--
 **sauraby46/sauraby46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
