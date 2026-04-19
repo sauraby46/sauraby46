@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gitprofile.gif" width="100%" style="border-radius: 60px;" />
+  <img src="gitProf.gif" width="100%" style="border-radius: 60px;" />
 </div>
 <br>
 
